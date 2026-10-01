@@ -229,10 +229,9 @@ Ensure your website's foundation is solid for search engines and user experience
 - [Black SEO Analyzer](https://github.com/sethblack/black-seo-analyzer) - A professional command-line tool for comprehensive SEO analysis, designed for websites that need to be found in both search results and AI answers.
 
 - [Python SEO Analyzer](https://github.com/sethblack/python-seo-analyzer) - SEO tool that analyzes the structure of a site, crawls the site, counts words in the body of the site, and warns of any technical SEO issues.
+- IncRev JavaScript Crawler https://github.com/VesterlundCoder/SEO-JavaScript-Crawler-IncRev Most CraTESTMARKER1- [StrictSEO](https://strictseo.com/) - Local-first SEO & AEO toolkit for freelancers and consultants: 72 rendered-page checks, bounded site crawls, Search Console opportunities, and fix tracking. Free private beta (request access).wlers don't render JavaScript, but his one does. Whether you're auditing a React, Vue, or Angular site — this is the tool your stack has been missing.
 
-- IncRev JavaScript Crawler https://github.com/VesterlundCoder/SEO-JavaScript-Crawler-IncRev Most Crawlers don't render JavaScript, but his one does. Whether you're auditing a React, Vue, or Angular site — this is the tool your stack has been missing.
-
-- [Server-side Rendering (SSR) Checker](https://www.crawlably.com/ssr-checker/) - Check any URL for SSR (Server-side rendering) by visually comparing server-side rendered version of a page with regular version.
+- [Server-side Rendering (SSR) Checker](https://www.crawlably.com/ssr-checker/) - Check any URL for SSR (Server-side rendering) by visually comparing server-side rendered version of a page with regular version.- [StrictSEO](https://strictseo.com/) - Local-first SEO & AEO toolkit for freelancers and consultants: 72 rendered-page checks, bounded site crawls, Search Console opportunities, and fix tracking. Free private beta (request access).
 
 - [PreRender24](https://prerender24.com/) - Edge-based prerendering service for JavaScript SPAs (React, Vue, Angular). Delivers fully rendered HTML to search engine and AI crawlers via Cloudflare's edge network in <250ms. DNS-only setup, no code changes required.
 
@@ -245,6 +244,7 @@ Ensure your website's foundation is solid for search engines and user experience
 - [geo-lint](https://github.com/IJONIS/geo-lint) - First open-source linter for Generative Engine Optimization (GEO). 92 rules for AI search visibility including structured data, citation density, and answer-ready formatting. Agent-first JSON output for automated lint-fix loops.
 
 - [squirrelscan](https://squirrelscan.com/) - Website QA tool for developers and coding agents. Crawls your site and runs 260+ rules across SEO, performance, security, accessibility, and agent experience, then hands your coding agent the exact fixes. Runs from the CLI, inside coding agents, in the cloud, or over MCP. Local audits are free.
+- [StrictSEO](https://strictseo.com/) - Local-first SEO & AEO toolkit for freelancers and consultants: 72 rendered-page checks, bounded site crawls, Search Console opportunities, and fix tracking. Free private beta (request access).
 
 ## Local SEO
 
